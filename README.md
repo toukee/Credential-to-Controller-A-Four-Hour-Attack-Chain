@@ -34,11 +34,6 @@ It also highlights my growing experience using Microsoft Defender XDR to correla
 
 ## Steps
 
-🏠  [Back to Portfolio](https://www.notion.so/Toukee-Vang-Portfoilo-29c0c3b8580a803ea4c7e402115d24a2?pvs=21) 
-
-▶️  [**Duolingo Phish!**](https://www.notion.so/Duolingo-Phish-29c0c3b8580a805ab70fe533e503e9e5?pvs=21) 
-
-# Table of Contents:
 
 # Case Summary
 
@@ -160,6 +155,7 @@ Subsequently, the attacker leveraged the compromised administrator credentials t
 - Credentials were reused to access `MTC-DC`, confirming domain-level privilege escalation.
 
 Credentials were reused to access MTC-DC
+
 <img width="470" height="782" alt="image" src="https://github.com/user-attachments/assets/c17ba58f-5b25-4693-a23a-432ace73d83a" />
 
 
